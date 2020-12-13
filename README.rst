@@ -6,7 +6,7 @@ What's this?
 
 These are the scripts used to compute data and produce figures for the paper:
 
-Burgard, C., and D. Notz (2017), Drivers of Arctic Ocean warming in CMIP5 models, Geophys. Res. Lett., 44, 4263–4271, doi:10.1002/2016GL072342.
+Burgard, C., and D. Notz (2017), Drivers of Arctic Ocean warming in CMIP5 models, Geophys. Res. Lett., 44, 4263–4271, https://doi.org/10.1002/2016GL072342.
 
 Primary data
 ------------
@@ -37,5 +37,3 @@ Final processing and visualization was done with python using following scripts:
 - Figure3_rev2.py: creates Figure 3
 
 Signed: Clara Burgard, 26.05.2017
-
-These are the scripts used in the GRL paper "Drivers of Arctic Ocean warming in CMIP5 models":  https://doi.org/10.1002/2016GL072342
